@@ -1,2 +1,2 @@
-# Criador-de-Videos
+# cvideos
 criar vídeos automatizado 
